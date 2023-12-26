@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Convidado</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="actions_author">Informações do Autor</string>
+    <string name="menu_all_guest">Todos os convidados</string>
+    <string name="menu_present">Presentes</string>
+    <string name="menu_absent">Ausentes</string>
+    <string name="name">Nome</string>
+    <string name="text_presence">Presença</string>
+    <string name="textradio_present">Presente</string>
+    <string name="textradio_absent">Ausente</string>
+    <string name="textsave">Salvar</string>
+    <string name="text_guest">Convidado</string>
+    <string name="text_author">Autor</string>
+    <string name="author_name">João Vitor Avelar</string>
+    <string name="email">jvitoravelar1200@gmail.com</string>
+    <string name="more_infos">"Mais informações: "</string>
+    <string name="github_url">https://github.com/JvAvelar</string>
+    <string name="linkedin_url">https://www.linkedin.com/in/jvitor-avelar/</string>
+
+</resources>
