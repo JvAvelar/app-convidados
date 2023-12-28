@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "dev.jvitor.convidado.app-mergeDebugResources-50:/layout/activity_guest_form.xml",
+        "source": "dev.jvitor.convidado.app-main-53:/layout/activity_guest_form.xml"
+    },
+    {
+        "merged": "dev.jvitor.convidado.app-mergeDebugResources-50:/layout/content_main.xml",
+        "source": "dev.jvitor.convidado.app-main-53:/layout/content_main.xml"
+    },
+    {
+        "merged": "dev.jvitor.convidado.app-mergeDebugResources-50:/layout/activity_main.xml",
+        "source": "dev.jvitor.convidado.app-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "dev.jvitor.convidado.app-mergeDebugResources-50:/layout/fragment_all_guest.xml",
+        "source": "dev.jvitor.convidado.app-main-53:/layout/fragment_all_guest.xml"
+    },
+    {
+        "merged": "dev.jvitor.convidado.app-mergeDebugResources-50:/layout/fragment_absent.xml",
+        "source": "dev.jvitor.convidado.app-main-53:/layout/fragment_absent.xml"
+    },
+    {
+        "merged": "dev.jvitor.convidado.app-mergeDebugResources-50:/layout/activity_author.xml",
+        "source": "dev.jvitor.convidado.app-main-53:/layout/activity_author.xml"
+    },
+    {
+        "merged": "dev.jvitor.convidado.app-mergeDebugResources-50:/layout/fragment_present.xml",
+        "source": "dev.jvitor.convidado.app-main-53:/layout/fragment_present.xml"
+    },
+    {
+        "merged": "dev.jvitor.convidado.app-mergeDebugResources-50:/layout/app_bar_main.xml",
+        "source": "dev.jvitor.convidado.app-main-53:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "dev.jvitor.convidado.app-mergeDebugResources-50:/layout/nav_header_main.xml",
+        "source": "dev.jvitor.convidado.app-main-53:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "dev.jvitor.convidado.app-mergeDebugResources-50:/layout/row_guest.xml",
+        "source": "dev.jvitor.convidado.app-main-53:/layout/row_guest.xml"
+    }
+]

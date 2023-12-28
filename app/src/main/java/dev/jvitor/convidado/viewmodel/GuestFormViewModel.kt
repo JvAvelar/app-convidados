@@ -9,7 +9,7 @@ import dev.jvitor.convidado.repository.GuestRepository
 
 class GuestFormViewModel(application: Application) : AndroidViewModel(application) {
 
-    private val repository = GuestRepository.getInstance(application)
+    private val repository = GuestRepository(application)
 
     private val guestModel = MutableLiveData<GuestModel>()
     val guest: LiveData<GuestModel> = guestModel
@@ -49,7 +49,4 @@ class GuestFormViewModel(application: Application) : AndroidViewModel(applicatio
     private fun messageFailNameIsBlank() : String {
         return "FALHA! Insira o nome do convidado."
     }
-
-
-
 }
